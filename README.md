@@ -78,4 +78,4 @@ Other
 13. [Inline lint highlighting](https://github.com/SublimeLinter/SublimeLinter)
 14. [Enhancements to Sublime Text sidebar. Files and folders.](https://github.com/titoBouzout/SideBarEnhancements)
 15. [LoremIpsum plugin](https://github.com/billymoon/LoremIpsum)
-16. (Golden Ratio)[https://github.com/roadhump/GoldenRatio]
+16. [Golden Ratio](https://github.com/roadhump/GoldenRatio)
