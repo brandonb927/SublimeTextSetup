@@ -62,3 +62,4 @@ Other
 8. [Deletes blank (or surplus blank) lines from a selection](https://github.com/NicholasBuse/sublime_DeleteBlankLines)
 9. [SideBarEnhancements - Enhancements to Sublime Text sidebar. Files and folders.](https://github.com/titoBouzout/SideBarEnhancements)
 10. [LoremIpsum plugin](https://github.com/billymoon/LoremIpsum)
+11. [DocBlockr](https://github.com/spadgos/sublime-jsdocs)
