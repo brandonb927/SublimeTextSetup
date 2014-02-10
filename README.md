@@ -49,6 +49,11 @@ Git
 3. [Add git commands to sidebar](https://github.com/SublimeText/SideBarGit)
 
 
+Templates
+----------
+0. [Swig](https://github.com/jonschlinkert/sublime-swig)
+
+
 Other
 ----------
 
