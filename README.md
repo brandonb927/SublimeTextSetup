@@ -52,7 +52,7 @@ This list is available at `Preferences > Package Settings > Package Control > Se
 
 Here is my settings as well:
 
-```
+```js
 {
   "auto_complete_selector": "source, text",
   "bold_folder_labels": true,
