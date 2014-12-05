@@ -50,6 +50,68 @@ This list is available at `Preferences > Package Settings > Package Control > Se
 }
 ```
 
+Here is my settings as well:
+
+```
+{
+  "auto_complete_selector": "source, text",
+  "bold_folder_labels": true,
+  "caret_extra_width": 2,
+  "color_scheme": "Packages/User/Seti_orig (SL).tmTheme",
+  "create_window_at_startup": false,
+  "detect_indentation": false,
+  "draw_white_space": "selection",
+  "ensure_newline_at_eof_on_save": true,
+  "fade_fold_buttons": true,
+  "file_exclude_patterns":
+  [
+    "._*",
+    ".DS_Store",
+    ".git*",
+    "*.pyc",
+    "*.rdb",
+    "sftp*",
+    ".dropbox",
+    "Icon*",
+    ".sublime-*"
+  ],
+  "fold_buttons": true,
+  "folder_exclude_patterns":
+  [
+    ".git",
+    "env",
+    "tmp",
+    "node_modules",
+    ".bower-*",
+    ".codekit-*"
+  ],
+  "font_face": "Droid Sans Mono",
+  "font_options":
+  [
+    "subpixel_antialias"
+  ],
+  "font_size": 14.0,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
+  "ignored_packages":
+  [
+    "Markdown",
+    "Vintage"
+  ],
+  "show_full_path": true,
+  "spell_check": false,
+  "tab_size": 2,
+  "theme": "Seti.sublime-theme",
+  "trailing_spaces_include_current_line": false,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "uglifyjs_command": "/usr/local/bin/uglifyjs",
+  "word_wrap": false
+}
+
+
+```
+
 
 ## Other various packages
 
